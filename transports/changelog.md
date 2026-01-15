@@ -1,0 +1,3 @@
+- feat: improved model validation for provider-prefixed model configurations
+- fix: added support for model lookup in Google GenAI integration by path parameter (fixes using VK provider routing for GenAI integration)
+- fix: missing request type in error response for anthropic SDK integration
